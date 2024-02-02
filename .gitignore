@@ -1,0 +1,5 @@
+*.log
+/dir/
+log.txt
+dir3/dir/
+databse.accdb
